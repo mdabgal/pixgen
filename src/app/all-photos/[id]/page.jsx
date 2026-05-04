@@ -29,4 +29,5 @@ const PhotoDetailsPage =async  ({params}) => {
     );
 };
 
+
 export default PhotoDetailsPage;
