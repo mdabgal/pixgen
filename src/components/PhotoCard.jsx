@@ -5,7 +5,7 @@ import { BiDownload } from 'react-icons/bi';
 import { FaHeart } from 'react-icons/fa';
 
 const PhotoCard = ({ photo }) => {
-    console.log(photo);
+  
 
    
        
